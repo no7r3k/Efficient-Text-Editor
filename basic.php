@@ -111,7 +111,7 @@
             
         $.ajax ({ 
             type: "POST",
-            url:"texter.php",
+            url:"basic.php",
             data: {"txtValue" : value}, 
             success: function() {
             console.log("Saved!");
@@ -130,7 +130,7 @@
         
         $.ajax ({ 
             type: "POST",
-            url:"texter.php",
+            url:"basic.php",
             data: {"wipeData" : wipe}, 
             success: function() {
             console.log("Wiped!");
