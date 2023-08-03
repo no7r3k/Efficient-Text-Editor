@@ -39,5 +39,5 @@ Your contributions are welcome! Feel free to fork this repository and customize 
 
 ## License
 
-This project is licensed under the [GPL 3.0](LICENSE).
+This project is licensed under the [GNU 3.0](LICENSE).
 Do as you will. 
